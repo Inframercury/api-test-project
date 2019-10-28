@@ -1,0 +1,7 @@
+allure-pytest==2.8.6
+pyparsing==2.4.2
+pytest==5.2.2
+pytest-logger==0.5.1
+pytest-rerunfailures==7.0
+pytest-testconfig==0.1.2
+requests==2.22.0
